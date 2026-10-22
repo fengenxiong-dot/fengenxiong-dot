@@ -21,7 +21,7 @@
 |---|---|
 | [听记君 · 会议与面试记录助手](https://github.com/fengenxiong-dot/tingji-meeting-assistant) | 把会议和面试中的声音，整理成可以回看、检索和复用的工作记录。 |
 | [提词助手 · 培训与录课提词器](https://github.com/fengenxiong-dot/teleprompter) | 为培训讲解、课程录制和工作汇报准备一块随讲随看的提词屏。 |
-| [PDF 拆分工具 · 桌面页面整理助手](https://github.com/fengenxiong-dot/pdf-split-tool) | 把一份较长的 PDF 按需要整理、拆分，并将页面导出为图片。 |
+| [PDF 拆分工具 · 桌面页面整理助手](https://github.com/fengenxiong-dot/pdf-split-tool) | 预览 PDF、选择所需页面，并批量导出 PNG 图片。 |
 | [Word 模板批量填充工具](https://github.com/fengenxiong-dot/word-template-filler) | 用一份数据填入多份 Word 模板，尽量保留模板原有的文字格式。 |
 | [评鉴 · 在线评价工作台](https://github.com/fengenxiong-dot/evaluation-workbench) | 把线下 Excel 评价表变成可分配、可填写、可汇总的在线评价任务。 |
 | [任职资格认证运营台](https://github.com/fengenxiong-dot/qualification-ops) | 把资格标准、员工举证、评审记录和认证结果，串成可追溯的管理流程。 |
